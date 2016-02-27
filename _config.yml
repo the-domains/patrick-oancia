@@ -1,0 +1,28 @@
+name: Patrick Oancia
+favicon: null
+layout_spectrum: 0.6423217337578535
+typography_spectrum: 0.09293604595586658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.21636872133240104
+  lightness: 0.46932220715098083
+  saturation: 0.8455541331786662
+  rhythmicContrast: 0.8758215364068747
+purpose: []
