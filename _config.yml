@@ -1,7 +1,7 @@
 name: Patrick Oancia
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.61221
+typography_spectrum: 0.48566
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#5d5e63'
     - '#cd9a7f'
     - '#a07a63'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.8125
   saturation: 0.8455541331786662
   rhythmicContrast: 0.75
