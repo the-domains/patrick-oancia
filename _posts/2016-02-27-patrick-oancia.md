@@ -3,27 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The Only Time We Are In Action We Deliver
-datePublished: '2016-02-27T04:32:02.831Z'
-dateModified: '2016-02-27T04:31:37.364Z'
+datePublished: '2016-02-28T12:39:09.212Z'
+dateModified: '2016-02-28T12:39:08.775Z'
 title: Patrick Oancia
 author: []
+sourcePath: _posts/2016-02-27-patrick-oancia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-27-patrick-oancia.md
-published: true
 url: patrick-oancia/index.html
 _type: Article
 
 ---
 ## Patrick Oancia New and ready
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca72ab2-036e-44a9-9342-70b1487e4736.jpg)
+![The Right To Talk!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b248da02ee026ffc4844144e67c21524d4b19310.jpg)
 
 ## System 
 
