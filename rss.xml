@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Patrick Oancia]]></title>
-        <description><![CDATA[Patrick Oancia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Right Way Home]]></title>
+        <description><![CDATA[The Right Way Home]]></description>
+        <link>https://thegrid.ai/patrick-oancia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 04:32:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 12:39:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patrick-oancia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Patrick Oancia New and ready]]></title>
             <description><![CDATA[<article><h1>Patrick Oancia New and ready</h1><p>TypographyVerse is the system that automates how The Grid chooses fonts for your site. Rather than picking individual typefaces for your headers, sub-headers, and body text, you can use the type slider to choose the feeling you're going for, and let The Grid do the rest.TypographyVerse is the system that automates how The Grid chooses fonts for your site. Rather than picking individual typefaces for your headers, sub-headers, and body text, you can use the type slider to choose the feeling you're going for, and let The Grid do the rest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b248da02ee026ffc4844144e67c21524d4b19310.jpg"></article>]]></description>
-            <link>undefinedpatrick-oancia/index.html</link>
+            <link>https://thegrid.ai/patrick-oancia/patrick-oancia/index.html</link>
             <guid isPermaLink="false">f3629c6a-58c8-4069-a36a-456516abd48a</guid>
-            <pubDate>Sat, 27 Feb 2016 04:32:02 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 12:39:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
